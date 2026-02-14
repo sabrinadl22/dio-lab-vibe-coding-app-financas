@@ -1,8 +1,8 @@
+
 # 💸 FIN Mentor App de Organização de Finanças Pessoais com Vibe Coding
 
-PRD refinado no Copilot web
-````
-**Título:**  
+## 📝 PRD Refinado no Copilot Web
+```
 Criar um aplicativo de Organização de Finanças Pessoais baseado em conversas em linguagem natural.  
 
 **Objetivo:**  
@@ -59,20 +59,24 @@ Pessoas que querem começar a organizar suas finanças de forma prática e sem c
 - Linguagem simples e direta.  
 - Gráficos com cores acessíveis e explicações textuais.  
 - Layout inspirado em apps de mensagens para familiaridade.  
+```
 
 ---
-````
-Interações Lovable e Base44
 
-- Lovable
-  > O que são aqueles valores de 4294,20 e saída 705,80. não comecei a registrar meus gastos e entradas ainda. Também quero que seja em uma aba separada para o registro de gastos e entradas não no chat
-  - Base44
-    >Corrigir para que quando coloque dinheiro na meta diminua do saldo da receita
+## 🤖 Interações Lovable e Base44
+- **Lovable**  
+  > O que são aqueles valores de 4294,20 e saída 705,80. não comecei a registrar meus gastos e entradas ainda. Também quero que seja em uma aba separada para o registro de gastos e entradas não no chat  
 
-- Site: https://fin-chat-guide.base44.app
-- <img width="1293" height="845" alt="image" src="https://github.com/user-attachments/assets/36870554-0340-49c4-aa18-2d45d9f96baa" />
- 
-  - # 📱 Fin – Mentor Financeiro Pessoal
+- **Base44**  
+  > Corrigir para que quando coloque dinheiro na meta diminua do saldo da receita  
+
+- Site: [Fin Chat Guide – Base44](https://fin-chat-guide.base44.app)  
+- Exemplo de interação:  
+  <img width="1293" height="845" alt="image" src="https://github.com/user-attachments/assets/36870554-0340-49c4-aa18-2d45d9f96baa" />
+
+---
+
+# 📱 Fin – Mentor Financeiro Pessoal
 
 ## Visão Geral
 O **Fin** é um aplicativo de organização financeira pessoal que funciona por meio de conversas em linguagem natural.  
@@ -137,17 +141,18 @@ Ele atua como um **mentor financeiro digital**, ajudando o usuário a registrar 
 - Integração com bancos para importação automática de transações.  
 - Relatórios avançados e comparativos.  
 - Recomendações personalizadas de investimento.  
-- Gamificação e expansão das frases motivacionais.
-   
-## Reflexão
+- Gamificação e expansão das frases motivacionais.  
 
- ## O que funcionou bem?  
-A utilização do Copilot para ajustar o prompet antes de informar no Loveble e Base 44, pois essas IA's possuem limite de interações. 
+---
 
-## O que não funcionou como o esperado?  
-Tive dificuldade em utilizar o Loveble. Mesmo após refinar o prompt no Copilot, ao inserir no Loveble o aplicativo apresentou diversos erros. Já ao usar o mesmo prompt no Base 44, o desempenho foi melhor: não ocorreram tantos erros e não foi necessário realizar várias interações para ajustes.
+## 💡 Reflexão
 
-## O que aprendeu sobre conversar com IAs?
-Para que a ferramenta responda de forma mais assertiva, é essencial apresentar instruções com detalhes e clareza sobre o que se deseja.
+### O que funcionou bem?  
+A utilização do Copilot para ajustar o prompt antes de informar no Lovable e Base44, pois essas IA's possuem limite de interações.  
 
+### O que não funcionou como o esperado?  
+Tive dificuldade em utilizar o Lovable. Mesmo após refinar o prompt no Copilot, ao inserir no Lovable o aplicativo apresentou diversos erros. Já ao usar o mesmo prompt no Base44, o desempenho foi melhor: não ocorreram tantos erros e não foi necessário realizar várias interações para ajustes.  
 
+### O que aprendeu sobre conversar com IAs?  
+Para que a ferramenta responda de forma mais assertiva, é essencial apresentar instruções com detalhes e clareza sobre o que se deseja.  
+````
